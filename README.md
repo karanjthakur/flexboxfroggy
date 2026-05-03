@@ -3,6 +3,8 @@ Flexbox Froggy
 
 Web Link: https://karanjthakur.github.io/flexboxfroggy/
 
+Cheatsheet web link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 Flexbox Froggy is a game for learning CSS flexbox. Check it out at [flexboxfroggy.com](https://flexboxfroggy.com).
 
 Read [this blog post](https://thomaspark.co/2015/11/learning-css-layout-with-flexbox-froggy/) for background on the project.
